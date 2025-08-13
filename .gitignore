@@ -69,3 +69,4 @@ iOSInjectionProject/
 .idea/
 Pods
 *.xcworkspace
+.DS_Store
